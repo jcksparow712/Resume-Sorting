@@ -1,0 +1,5 @@
+{
+  "name": "Elite Multi-Resume Ranker AI",
+  "description": "Batch process and rank multiple resumes against a job description using Gemini 3 Pro reasoning.",
+  "requestFramePermissions": []
+}
